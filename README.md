@@ -68,8 +68,8 @@ Below are the steps to implement the code
 
 
 <div float:left>
-<img src="https://user-images.githubusercontent.com/46235752/156130238-826b588e-baff-4a79-bccc-10ded866a0a8.png" width="500" height="350">
-<img src="https://user-images.githubusercontent.com/46235752/156130691-0cb33337-59a3-4052-9791-1ece1a082344.png" width="500" height="350">
+<img src="https://user-images.githubusercontent.com/46235752/156130238-826b588e-baff-4a79-bccc-10ded866a0a8.png" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/46235752/156130691-0cb33337-59a3-4052-9791-1ece1a082344.png" width="400" height="300">
 </div>
 
 Below are the steps to implement the code
